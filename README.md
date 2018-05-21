@@ -1,0 +1,2 @@
+# seathinking
+create ideas
